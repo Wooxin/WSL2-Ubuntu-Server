@@ -6,4 +6,4 @@
 
 ## 有什么特点？
 1. 经过了我的优化与简化
-2. 比ubuntuMinimal更全面，比ubuntuServer跟轻量
+2. 比ubuntuMinimal更全面，比ubuntuServer更轻量
